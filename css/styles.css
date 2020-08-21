@@ -1,0 +1,139 @@
+body{
+/*margin=0
+anthey*/
+text-align:center;
+font-family:verdana,sans-serif;
+background-color: #ffdbc5;
+margin:8px 8px 0px;
+}
+.ricky{
+	font-family: 'Pacifico', cursive;
+	font-size:333%;
+	color: #66BFBF;
+	padding:0px;
+}
+.sub{
+	font-size:144%;
+}
+
+.top-container{
+	
+	position:relative;
+	padding-top:100px;
+}
+.skill-row{
+	text-align:left;
+	margin: auto;
+  	width: 50%;
+  	
+} 
+.programmer{
+	width:25%;
+	float:left;
+	margin-right:30px;
+}
+.training{
+	width:25%;
+	float:right;
+	margin-left:30px;
+}
+hr{
+border:dotted #ff7171 6px;
+border-bottom:none;
+width:5%
+}
+.top-cloud{
+position:absolute;
+right:350px;
+top:0px;
+}
+.bottom-cloud{
+position:absolute;
+left:350px;
+top:270px;
+margin:auto;
+}
+h1{
+font-family: 'Pacifico', cursive;
+margin:0;
+color:66BFBF;
+}
+h2{
+	color:#66BFBF
+	font-family:'Montserrat', sans-serif;
+	font-size:2.5rem;
+	font-weight:normal;
+	padding-bottom:0px;
+	color: #66BFBF;
+} 
+h3{
+font-family:'Red Rose', cursive;
+font-weight:normal;
+}
+
+.intro{
+	width:40%;
+	margin:auto;
+ 
+}
+.reason{
+	font-size:135%;
+	font-family:cursive;
+	width:60%;
+	margin:auto;
+}
+p{
+	line-height:1.5;
+}
+
+.middle-container{
+	text-align:center;
+	background-color: #e0ece4;
+	position:relative;
+	padding-top:45px;
+}
+.bottom-container{
+	background-color:#66BFBF;
+	padding:25px 0 10px;
+}
+.btn {
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+	padding:0px 25px;
+	text-decoration:none;
+	font-size:200%;
+	
+}
+a:hover{
+	background-color:#cffffe;
+}
+.creative{
+	font-size:180%;
+	color:#f08a5d;
+}
+.pranav{
+	font-size:117%;
+	color:#383e56;
+}
+        
